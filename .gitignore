@@ -1,0 +1,25 @@
+# Java / Maven
+**/target/
+**/bin/
+**/out/
+**/*.class
+**/.classpath
+**/.project
+**/.settings/
+
+# Node / Vite
+**/node_modules/
+**/dist/
+**/.vite/
+
+# IDEs
+**/.idea/
+**/.vscode/
+**/*.iml
+
+# OS files
+**/.DS_Store
+**/Thumbs.db
+
+# Logs
+**/*.log
